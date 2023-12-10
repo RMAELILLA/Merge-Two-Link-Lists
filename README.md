@@ -7,33 +7,60 @@ _You can visit her at this social media link:_
 https://www.facebook.com/ryzamae.ronio.9
 
 # ⭐ You can also check other repositories ⭐
-_Decrypt User Input:_ https://github.com/RMAELILLA/Decrypt-User-Input
+_Decrypt User Input:_ 
 
-_Cypher Text:_ https://github.com/RMAELILLA/Cipher-Text
+    https://github.com/RMAELILLA/Decrypt-User-Input
 
-_Students Name and GWA:_ https://github.com/RMAELILLA/Students-Name-and-GWA
+_Cypher Text:_ 
 
-_Number's Even or Odd:_ https://github.com/RMAELILLA/Numbers-Even-or-Odd
+    https://github.com/RMAELILLA/Cipher-Text
 
-_Write Multiple Lines:_ https://github.com/RMAELILLA/Write-Multiple-Lines
+_Students Name and GWA:_ 
 
-_Math Operations:_ https://github.com/RMAELILLA/Math-Operations
+    https://github.com/RMAELILLA/Students-Name-and-GWA
 
-_TV TestTV:_ https://github.com/RMAELILLA/TV-TestTV
+_Number's Even or Odd:_ 
 
-_Calculator2:_ https://github.com/RMAELILLA/Calculator2
+    https://github.com/RMAELILLA/Numbers-Even-or-Odd
 
-_Inheritance Calculator:_ https://github.com/RMAELILLA/Inheritance-Calculator
+_Write Multiple Lines:_ 
 
-_FCP-Class:_ https://github.com/RMAELILLA/FCP-Class
+    https://github.com/RMAELILLA/Write-Multiple-Lines
 
-_Contact-Tracing:_ https://github.com/RMAELILLA/Contact-Tracing
+_Math Operations:_ 
 
-_Python-Flask-Profile:_ https://github.com/RMAELILLA/Python-Flask-Profile
+    https://github.com/RMAELILLA/Math-Operations
+
+_TV TestTV:_ 
+
+    https://github.com/RMAELILLA/TV-TestTV
+
+_Calculator2:_ 
+
+    https://github.com/RMAELILLA/Calculator2
+
+_Inheritance Calculator:_ 
+
+    https://github.com/RMAELILLA/Inheritance-Calculator
+
+_FCP-Class:_ 
+
+    https://github.com/RMAELILLA/FCP-Class
+
+_Contact-Tracing:_ 
+
+    https://github.com/RMAELILLA/Contact-Tracing
+
+_Python-Flask-Profile:_ 
+
+    https://github.com/RMAELILLA/Python-Flask-Profile
 
 _Searcg-Algo:_
 
+    https://github.com/RMAELILLA/Search-Algorithm
+
 _CashMate-Website:_
 
-
-
+    https://github.com/RMAELILLA/CASHMATE
+     
+    https://github.com/RMAELILLA/CashMate-Budget-Manager
